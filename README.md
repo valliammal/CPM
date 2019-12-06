@@ -11,5 +11,7 @@ which computes lower bounds by making convex piecewise linear underestimations o
 trade-off curves of the activities to be used as input for an adapted version of the Fulkerson 
 labelling algorithm for the linear time=cost trade-off problem. Branching involves the selection 
 of an activity in order to partition its set of execution modes into two subsets which are used to 
-derive improved convex piecewise linear underestimations. The procedure has been programmed in Visual C++ under 
-Windows NTand has been validated using a factorial experiment on a large set of randomly generated problem instances.
+derive improved convex piecewise linear underestimations. The procedure has been programmed in C++ under 
+Windows NT and has been validated using a factorial experiment on a large set of randomly generated problem instances.
+
+Please add the Boost libraries in the developed code
